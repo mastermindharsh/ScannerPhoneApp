@@ -29,3 +29,5 @@ For more information about the sample see [Working with a Local Database](https:
 ![Simple Scanner Application screenshot](Screenshots/01All.png "Simple Scanner Application screenshot 1")
 ![Simple Scanner Application screenshot](Screenshots/02All.png "Simple Scanner Application screenshot deux")
 
+Happy Coding!!
+All the best
